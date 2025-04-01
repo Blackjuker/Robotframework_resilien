@@ -1,0 +1,18 @@
+# Environnement Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichiers Robot Framework générés
+output.xml
+log.html
+report.html
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
